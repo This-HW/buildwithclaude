@@ -3832,6 +3832,33 @@
         "repo": "shimo4228/akc-cycle",
         "sha": "f713b5658e419fedba535893db212f0a0b905a1a"
       }
+    },
+    {
+      "name": "hiway-kit",
+      "description": "Discipline kit for coding agents: plan files with executable done-criteria, an automated develop-and-validate pipeline, adversarial code review with a security scan, and a completion gate that judges \"done\" by command output. 15 skills, 15 subagents and 5 Python hooks (session-start rule injection, sensitive-path guard, ruff/prettier auto-format, Stop-time lint and test run). No network calls, no MCP servers.",
+      "version": "5.4.2",
+      "author": {
+        "name": "This-HW",
+        "url": "https://github.com/This-HW"
+      },
+      "homepage": "https://hiway.thishw.com/",
+      "repository": "https://github.com/This-HW/hiway-kit",
+      "license": "MIT",
+      "keywords": [
+        "planning",
+        "code-review",
+        "tdd",
+        "debugging",
+        "subagents",
+        "definition-of-done"
+      ],
+      "category": "development",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/This-HW/hiway-kit.git",
+        "path": "plugins/common",
+        "sha": "2315253cda64a76cb41ab0c6ed09d26291bda322"
+      }
     }
   ]
 }

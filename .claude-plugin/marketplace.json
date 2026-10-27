@@ -3814,7 +3814,7 @@
     {
       "name": "hiway-kit",
       "description": "Discipline kit for coding agents: plan files with executable done-criteria, an automated develop-and-validate pipeline, adversarial code review with a security scan, and a completion gate that judges \"done\" by command output. 15 skills, 15 subagents and 5 Python hooks (session-start rule injection, sensitive-path guard, ruff/prettier auto-format, Stop-time lint and test run). No network calls, no MCP servers.",
-      "version": "5.4.2",
+      "version": "5.5.0",
       "author": {
         "name": "This-HW",
         "url": "https://github.com/This-HW"
@@ -3835,7 +3835,7 @@
         "source": "git-subdir",
         "url": "https://github.com/This-HW/hiway-kit.git",
         "path": "plugins/common",
-        "sha": "2315253cda64a76cb41ab0c6ed09d26291bda322"
+        "sha": "df0df06b9e787833e6316a5340209d4d2fe62cd9"
       }
     },
     {
